@@ -1,0 +1,13 @@
+{
+  "name": "DealsParser",
+  "version": "1.0.0",
+  "description": "deals parser",
+  "main": "index.js",
+  "author": "exeg",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "^0.0.1-security",
+    "requestretry": "^1.12.2"
+  }
+}
